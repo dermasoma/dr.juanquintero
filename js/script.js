@@ -320,7 +320,7 @@ const treatments = [
     // =====================================================
     id: "bioestimulador-salmon",
     name: "Bioestimulador con ADN de salmón",
-    image: "images/tratamientos/nefertitis.png",
+    image: "images/tratamientos/salmon.png",
     shortDescription:
       "Es un tratamiento regenerativo realizado con polinucleótidos (PN) o polidesoxirribonucleótidos (PDRN), fragmentos de ADN que se obtienen mediante procesos controlados de purificación y esterilización a partir de salmón o trucha.",
     question: "¿Qué es el bioestimulador de colágeno con ADN de salmón?",
