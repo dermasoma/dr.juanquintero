@@ -314,6 +314,44 @@ const treatments = [
     whatsappMessage:
       "Hola, deseo solicitar información y agendar una cita acerca del tratamiento nefertitis con botox"
   },
+  {
+    // =====================================================
+    // TRATAMIENTO NUEVO 11: reemplaza todos estos datos
+    // =====================================================
+    id: "bioestimulador-salmon",
+    name: "Bioestimulador con ADN de salmón",
+    image: "images/tratamientos/nefertitis.png",
+    shortDescription:
+      "Es un tratamiento regenerativo realizado con polinucleótidos (PN) o polidesoxirribonucleótidos (PDRN), fragmentos de ADN que se obtienen mediante procesos controlados de purificación y esterilización a partir de salmón o trucha.",
+    question: "¿Qué es el bioestimulador de colágeno con ADN de salmón?",
+    applicationTitle: "¿Cuáles son sus beneficios?",
+    additionalTitle: "¿Dónde se puede aplicar?",
+    content: [
+      "Es un tratamiento regenerativo realizado con polinucleótidos (PN) o polidesoxirribonucleótidos (PDRN), fragmentos de ADN que se obtienen mediante procesos controlados de purificación y esterilización a partir de salmón o trucha.",
+      "Estos compuestos se aplican en la piel para favorecer sus procesos naturales de reparación y mejorar progresivamente su calidad. No funcionan como un relleno tradicional: su objetivo principal no es aportar volumen, sino mejorar la hidratación, elasticidad, textura y apariencia general de la piel."
+    ],
+    applicationZones: [
+      "Mejorar la hidratación de la piel.",
+      "Favorecer una apariencia más luminosa y saludable.",
+      "Mejorar progresivamente la elasticidad y firmeza.",
+      "Suavizar líneas finas.",
+      "Mejorar la textura y uniformidad de la piel.",
+      "Favorecer los procesos naturales de reparación cutánea.",
+      "Mejorar la apariencia de piel opaca, fina o deteriorada.",
+      "Apoyar la recuperación de la piel después de determinados procedimientos dermatológicos."
+    ],
+    additionalZones: [
+      "Rostro: para mejorar la hidratación, textura, luminosidad y líneas finas.",
+      "Contorno de ojos: para tratar la apariencia de piel fina, deshidratada y líneas superficiales.",
+      "Mejillas: para mejorar la calidad y elasticidad de la piel.",
+      "Cuello: para tratar líneas finas y pérdida inicial de firmeza.",
+      "Escote: para mejorar la textura y el aspecto de la piel fotoenvejecida.",
+      "Dorso de las manos: para favorecer una apariencia más hidratada y rejuvenecida.",
+      "Cicatrices o zonas específicas: únicamente cuando el médico considere que el producto y la técnica son adecuados."
+    ],
+    whatsappMessage:
+      "Hola, deseo solicitar información y agendar una cita acerca del tratamiento bioestimuladores de colágeno con esperma de salmón"
+  },
 ];
 
 /* =========================================================
